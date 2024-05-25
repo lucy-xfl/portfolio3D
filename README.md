@@ -1,10 +1,10 @@
 # React + Vite
 
-This is my first React + Three project
+Exciting news! It's my first React Three Project!
 
-The main content is a part of my protofolio.
+I'm thrilled to share my latest portfolio webpage created using React Three Fiber Drei helper useScroll with GSAP. It's been an incredible experience using Three.js to build 3D elements in the web page. I encourage you to check it out and play with it yourself! A big thank you to Thais for providing the 3D model and Wassim SAMAD for the invaluable teaching video. 
 
-Thanks for Wassim SAMADView Wassim SAMAD and Thaís
+Here's the link to my portfolio3D: https://lucy-xfl.github.io/portfolio3D/ 
 
 Here is the demo of this webpage
 
